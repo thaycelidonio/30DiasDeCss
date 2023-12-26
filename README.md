@@ -10,3 +10,5 @@
 ### O que eu aprendi
 ###### Tranformação 2D ou 3D de um elemento aqui, Transições CSS, Opacidade / transparência do CSS, hover, nth-child() e criar as camadas utilizando a tag <span>
 ![dia 01](https://github.com/giorizz/30daysofcss/blob/master/challenges/day01/day1.gif)
+
+fazendo alteração
