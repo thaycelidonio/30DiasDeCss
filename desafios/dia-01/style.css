@@ -1,0 +1,41 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.icon ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+}
+.icon ul li{
+    width: 44px;
+    height: 44px;
+    background-color: #043836;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    margin: 0px 5px;
+}
+.icon ul li i{
+    color: #fff;
+}
+.icon ul li:hover:nth-child(1){
+    background-color: #4267b2;
+}
+.icon ul li:hover:nth-child(2){
+    background-color: #1da1f2;
+}
+.icon ul li:hover:nth-child(3){
+    background-color: #178924c5;
+}
+.icon ul li:hover:nth-child(4){
+    background-color: #cd2367;
+}
+.icon ul li:hover:nth-child(5){
+    background-color: #eb0606d8;
+}
