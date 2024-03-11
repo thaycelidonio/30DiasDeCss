@@ -10,3 +10,9 @@
 ### O que eu aprendi
 ###### Aprendi a usar listas, classes específicas e referencias
 ![dia 01](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-01/Dia1.gif)
+
+## DIA 02
+* Loader animado <a href="https://github.com/thaycelidonio/30DiasDeCss/tree/main/desafios/dia-02">Link para meu código</a>
+### O que eu aprendi
+###### Animations com Glassmorphism como se fosse um loader
+![dia 02](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-02/dia-02.gif)
