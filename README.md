@@ -16,3 +16,10 @@
 ### O que eu aprendi
 ###### Animations com Glassmorphism como se fosse um loader
 ![dia 02](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-02/dia-02.gif)
+
+## DIA 03
+* Scrolling Text Animation <a href="https://github.com/thaycelidonio/30DiasDeCss/tree/main/desafios/dia-03">Link para meu código</a>
+### O que eu aprendi
+###### keyframes, animations, transforms
+![dia 03](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-03/Dia03.gif)
+
