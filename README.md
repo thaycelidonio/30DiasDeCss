@@ -1,6 +1,6 @@
 # 30 Dias de CSS
 #### Este é um tutorial da <a href="https://github.com/MilenaCarecho">Milena Carecho</a> e tem como objetivo melhorar minhas habilidades em HTML5 e CSS3 através da realização de mini-projetos utilizando estas ferramentas.
-### Será postado por dia um novo projeto que deve ser concluído até 23:59. No caso da Milena, ela entra com regras financeiras para dar uma embalo e tirar a galera da preguiça, mas as condições são mais apertadas, então é disciplina e força de vontade por aqui!!!
+### No caso da Milena, ela entra com regras financeiras para dar uma embalo e tirar a galera da preguiça, mas as condições são mais apertadas, então é disciplina e força de vontade por aqui!!!
 
 ### Abaixo estarão os meus projetos, com o que aprendi naquele dia e como ficou o resultado
 #### Espero que goste, e fica aí o desafio para vocês também!!!
@@ -23,3 +23,8 @@
 ###### keyframes, animations, transforms
 ![dia 03](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-03/Dia03.gif)
 
+## DIA 04
+* Animated Gradient Shadow <a href="https://github.com/thaycelidonio/30DiasDeCss/tree/main/desafios/dia-04">Link para meu código</a>
+### O que eu aprendi
+###### keyframes, box-shadow
+![dia 04](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-04/dia%2004.gif.gif)
