@@ -29,8 +29,6 @@
 ###### keyframes, box-shadow
 
 ![dia 04](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-04/dia%2004.gif.gif)
-=======
-![dia 04](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-04/dia%2004.gif.gif)
 
 ## DIA 05
 * Load letra e barra <a href="https://github.com/thaycelidonio/30DiasDeCss/tree/main/desafios/dia-03">Link para meu código</a>
