@@ -31,4 +31,9 @@
 ![dia 04](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-04/dia%2004.gif.gif)
 =======
 ![dia 04](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-04/dia%2004.gif.gif)
->>>>>>> a82553cec03d2ed681930ff425d4136ed97c0211
+
+## DIA 05
+* Load letra e barra <a href="https://github.com/thaycelidonio/30DiasDeCss/tree/main/desafios/dia-03">Link para meu código</a>
+### O que eu aprendi
+###### keyframes, before
+![dia 03](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-05/dia-05.gif)
