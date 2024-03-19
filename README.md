@@ -31,7 +31,13 @@
 ![dia 04](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-04/dia%2004.gif.gif)
 
 ## DIA 05
-* Load letra e barra <a href="https://github.com/thaycelidonio/30DiasDeCss/tree/main/desafios/dia-03">Link para meu código</a>
+* Load letra e barra <a href="https://github.com/thaycelidonio/30DiasDeCss/tree/main/desafios/dia-05">Link para meu código</a>
 ### O que eu aprendi
 ###### keyframes, before
 ![dia 03](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-05/dia-05.gif)
+
+## DIA 06
+* Coração batendo <a href="https://github.com/thaycelidonio/30DiasDeCss/tree/main/desafios/dia-06">Link para meu código</a>
+### O que eu aprendi
+###### after, animations, before
+![dia 03](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-06/dia-06.gif)
