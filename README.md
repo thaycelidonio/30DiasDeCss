@@ -47,3 +47,10 @@
 ### O que eu aprendi
 ###### before, hover, transiotions, after
 ![dia 07](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-07/Dia-07.gif)
+
+## DIA 08
+* Efeito Pulse <a href="https://github.com/thaycelidonio/30DiasDeCss/tree/main/desafios/dia-08">Link para meu código</a>
+### O que eu aprendi
+###### animation, !important
+![dia 08](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-08/dia-08.gif)
+
