@@ -54,3 +54,8 @@
 ###### animation, !important
 ![dia 08](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-08/dia-08.gif)
 
+## DIA 09
+* Efeito Pulse <a href="https://github.com/thaycelidonio/30DiasDeCss/tree/main/desafios/dia-09">Link para meu código</a>
+### O que eu aprendi
+###### nth-child (), animations, variáveis CSS
+![dia 09](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-09/dia-09.gif)
