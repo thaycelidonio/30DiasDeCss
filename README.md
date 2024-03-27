@@ -55,7 +55,13 @@
 ![dia 08](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-08/dia-08.gif)
 
 ## DIA 09
-* Efeito Pulse <a href="https://github.com/thaycelidonio/30DiasDeCss/tree/main/desafios/dia-09">Link para meu código</a>
+* Efeitos de animação fundo de partículas <a href="https://github.com/thaycelidonio/30DiasDeCss/tree/main/desafios/dia-09">Link para meu código</a>
 ### O que eu aprendi
 ###### nth-child (), animations, variáveis CSS
 ![dia 09](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-09/dia-09.gif)
+
+## DIA 10
+* Botão que se mexe <a href="https://github.com/thaycelidonio/30DiasDeCss/tree/main/desafios/dia-10">Link para meu código</a>
+### O que eu aprendi
+###### nth-child(), :checked
+![dia 10](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-10/dia-10.gif)
