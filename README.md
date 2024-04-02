@@ -65,3 +65,9 @@
 ### O que eu aprendi
 ###### nth-child(), :checked
 ![dia 10](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-10/dia-10.gif)
+
+## DIA 11
+* Marcação colorida por onde o mouse passa <a href="https://github.com/thaycelidonio/30DiasDeCss/tree/main/desafios/dia-11">Link para meu código</a>
+### O que eu aprendi
+###### nth-child(), class, .pagination
+![dia 11](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-11/dia-11%20%E2%80%90%20Feito%20com%20o%20Clipchamp.gif)
