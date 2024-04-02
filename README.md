@@ -71,3 +71,9 @@
 ### O que eu aprendi
 ###### nth-child(), class, .pagination
 ![dia 11](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-11/dia-11%20%E2%80%90%20Feito%20com%20o%20Clipchamp.gif)
+
+## DIA 12
+* Loader animado <a href="https://github.com/thaycelidonio/30DiasDeCss/tree/main/desafios/dia-12">Link para meu código</a>
+### O que eu aprendi
+###### nth-child(), class, top, left, keyframes
+![dia 12](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-12/dia-12.gif)
