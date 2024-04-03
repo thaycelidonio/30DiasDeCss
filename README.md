@@ -77,3 +77,9 @@
 ### O que eu aprendi
 ###### nth-child(), class, top, left, keyframes
 ![dia 12](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-12/dia-12.gif)
+
+## DIA 13
+* Jumping <a href="https://github.com/thaycelidonio/30DiasDeCss/tree/main/desafios/dia-13">Link para meu código</a>
+### O que eu aprendi
+###### nth-child(), div, keyframes
+![dia 13](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-13/dia-13.gif)
