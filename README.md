@@ -83,3 +83,10 @@
 ### O que eu aprendi
 ###### nth-child(), div, keyframes
 ![dia 13](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-13/dia-13.gif)
+
+## DIA 14
+* Loading Abstract <a href="https://github.com/thaycelidonio/30DiasDeCss/tree/main/desafios/dia-14">Link para meu código</a>
+### O que eu aprendi
+###### hover, keyframes, before
+![dia 14](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-14/dia-14.gif)
+
