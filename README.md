@@ -95,3 +95,9 @@
 ### O que eu aprendi
 ###### nth-child(), keyframes, .container .content
 ![dia 15](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-15/dia-15.gif)
+
+## DIA 16
+* Checkbox <a href="https:https://github.com/thaycelidonio/30DiasDeCss/tree/main/desafios/dia-16">Link para meu código</a>
+### O que eu aprendi
+###### :after, transitions, appearence
+![dia 16](https://github.com/thaycelidonio/30DiasDeCss/blob/main/desafios/dia-16/dia-16.gif)
